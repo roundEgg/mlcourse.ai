@@ -112,6 +112,7 @@ dmypy.json
 # large data files
 data/athlete_events.csv
 data/kaggle_medium/*
+data/faces/*
 
 # solutions
 *_solution.ipynb
