@@ -113,6 +113,7 @@ dmypy.json
 data/athlete_events.csv
 data/kaggle_medium/*
 data/faces/*
+data/stackoverflow_sample_70k.csv.zip
 
 # solutions
 *_solution.ipynb
