@@ -114,6 +114,7 @@ data/athlete_events.csv
 data/kaggle_medium/*
 data/faces/*
 data/stackoverflow_sample_70k.csv.zip
+data/*
 
 # solutions
 *_solution.ipynb
