@@ -118,3 +118,6 @@ data/*
 
 # solutions
 *_solution.ipynb
+
+# other shit
+.DS_Store
