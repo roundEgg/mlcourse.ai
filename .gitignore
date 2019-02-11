@@ -116,5 +116,8 @@ data/faces/*
 data/stackoverflow_sample_70k.csv.zip
 data/*
 
-# solutions
-*_solution.ipynb
+# other shit
+.DS_Store
+
+#this is created by run_jupyter.sh or .cmd scripts
+home
