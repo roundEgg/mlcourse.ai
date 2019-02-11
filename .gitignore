@@ -113,5 +113,8 @@ dmypy.json
 data/athlete_events.csv
 data/kaggle_medium/*
 
-# solutions
-*_solution.ipynb
+# other shit
+.DS_Store
+
+#this is created by run_jupyter.sh or .cmd scripts
+home
